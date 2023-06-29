@@ -1,27 +1,22 @@
-### Hi there, I'm [huan_kong](https://blog.huankong.top) 👋
-Hi, I'm huan_kong, a passionate self-taught full stack developer from China.
+## 👋 Hi there, I'm [huan_kong](https://blog.huankong.top) 
+I'm a passionate self-taught full stack developer from China.
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning Java
 
-**Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+[🌐 Website](https://huankong.top) · [📚 Blog](https://blog.huankong.top) · [🔥 Api](https://api.huankong.top)
+
+## 🔨 Languages and Tools:
+
+![](https://img.shields.io/badge/JavaScript-★★★★-F7DF1E?logo=JavaScript&style=flat-square)
+![](https://img.shields.io/badge/NodeJS-★★★★-339933?logo=Node.js&style=flat-square)
+![](https://img.shields.io/badge/PHP-★★★★-47A248?logo=PHP&style=flat-square)
+
+![](https://img.shields.io/badge/HTML5-★★★-F7DF1E?logo=HTML5&style=flat-square)
+![](https://img.shields.io/badge/TypeScript-★★★-3178C6?logo=TypeScript&style=flat-square)
+![](https://img.shields.io/badge/CSS-★★★-1572B6?logo=CSS3&style=flat-square)
+![](https://img.shields.io/badge/vue-★★★-47A248?logo=Vue.js&style=flat-square)
 
 
-<h2>ℹ️ Some Statistics Fun</h2>
-<details>	
-  <summary><b>Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=huankong233&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="huankong233" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=huankong233&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=highcontrast" alt="huankong233"/>
-</details>
-
-<details>
- <summary><b>Github Streaks</b></summary>
-<p align="Left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=huankong233&theme=highcontrast" alt="huankong233" /></p>
-</details>
+![](https://img.shields.io/badge/Python-★★-F05032?logo=Python&style=flat-square)
+![](https://img.shields.io/badge/Linux-★★-FCC624?logo=Linux&style=flat-square)
+![](https://img.shields.io/badge/Git-★★-F05032?logo=Git&style=flat-square)
