@@ -9,14 +9,14 @@ I'm a passionate self-taught full stack developer from China.
 
 ![](https://img.shields.io/badge/JavaScript-★★★★-F7DF1E?logo=JavaScript&style=flat-square)
 ![](https://img.shields.io/badge/NodeJS-★★★★-339933?logo=Node.js&style=flat-square)
-![](https://img.shields.io/badge/PHP-★★★★-47A248?logo=PHP&style=flat-square)
+![](https://img.shields.io/badge/PHP-★★★★-777bb4?logo=PHP&style=flat-square)
 
-![](https://img.shields.io/badge/HTML5-★★★-F7DF1E?logo=HTML5&style=flat-square)
+![](https://img.shields.io/badge/HTML5-★★★-F05032?logo=HTML5&style=flat-square)
 ![](https://img.shields.io/badge/TypeScript-★★★-3178C6?logo=TypeScript&style=flat-square)
 ![](https://img.shields.io/badge/CSS-★★★-1572B6?logo=CSS3&style=flat-square)
 ![](https://img.shields.io/badge/vue-★★★-47A248?logo=Vue.js&style=flat-square)
 
 
-![](https://img.shields.io/badge/Python-★★-F05032?logo=Python&style=flat-square)
+![](https://img.shields.io/badge/Python-★★-3178C6?logo=Python&style=flat-square)
 ![](https://img.shields.io/badge/Linux-★★-FCC624?logo=Linux&style=flat-square)
 ![](https://img.shields.io/badge/Git-★★-F05032?logo=Git&style=flat-square)
