@@ -3,7 +3,7 @@ I'm a passionate self-taught full stack developer from China.
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning Java and Rust
 
-[🌐 Website](https://huankong.top) · [📚 Blog](https://blog.huankong.top) · [🔥 Api](https://api.huankong.top)
+[🏠 HomePage](https://huankong.top) · [📚 Blog](https://blog.huankong.top) · [🔥 Api](https://api.huankong.top)
 
 ## 🔨 Languages and Tools:
 
