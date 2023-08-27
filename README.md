@@ -1,4 +1,7 @@
 ## 👋 Hi there, I'm [huan_kong](https://blog.huankong.top) 
+
+<img src="https://img.huankong.top/i/2023/08/27/64eae704a255c.jpg" style="width: 25%;" align="right">
+
 I'm a passionate self-taught full stack developer from China.
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning Java and Rust
