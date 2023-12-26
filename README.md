@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm [huan_kong](https://blog.huankong.top) 
-
 <img src="https://img.huankong.top/i/2023/12/26/658abed95c2b8.gif" align="right" />
+
+## 👋 Hi there, I'm [huan_kong](https://blog.huankong.top) 
 
 I'm a passionate self-taught full stack developer from China.
 - 🔭 I’m currently a student
