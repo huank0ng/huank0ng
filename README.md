@@ -1,4 +1,4 @@
-<img src="https://github.com/huankong233/huankong233/assets/49610758/42c96067-f4b2-47da-afe8-c5b1ec944021" align="right" style="height:500px;width:450px;" />
+<img src="https://github.com/huankong233/huankong233/assets/49610758/42c96067-f4b2-47da-afe8-c5b1ec944021" align="right" style="height:460px;width:400px;" />
 
 ## 👋 Hi there, I'm [huan_kong](https://blog.huankong.top) 
 
